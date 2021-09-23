@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CP Maintenance</string>
+    <string name="ok">ok</string>
+    <string name="USER_PREFERENCES" translatable="false">user_preference</string>
+
+    <!--Splash Screen-->
+    <string name="maintenance">Maintenance</string>
+
+    <!--Language Selection-->
+    <string name="welcome_maintenance">Welcome to Maintenance \nApplication</string>
+    <string name="getStarted">Get Started</string>
+
+    <!--Login-->
+    <string name="login">LOGIN</string>
+    <string name="EmAddrs">Email</string>
+    <string name="password">Password</string>
+
+    <!--MainScreen-->
+    <string name="device">Device:</string>
+    <string name="battery_power">Battery Power </string>
+
+    <!--
+    Scan QrCode
+-->
+
+    <string name="description">Please scan the QR code to start the installation of the new device </string>
+    <string name="startScan">Start Scan</string>
+    <string name="scan">Scan</string>
+
+    <!--
+    Device Details
+-->
+    <string name="deviceDetails">Device Details</string>
+    <string name="location">Location</string>
+    <string name="address">Address</string>
+    <string name="type_of_maintaince">Type of Maintenance</string>
+    <string name="balttery">Balttery</string>
+    <string name="pcb">PCB</string>
+    <string name="mechanickel">Mechanical</string>
+    <string name="landmark">Landmark</string>
+
+    <!--Menu Item Display-->
+    <string name="install">Install</string>
+    <string name="repair">Inspection</string>
+    <string name="locations">Locations</string>
+    <string name="test_device">Test Device</string>
+
+
+    <!--UploadImage-->
+    <string name="upload">Upload</string>
+    <string name="uploadImg">Upload Images</string>
+    <string name="upload_file">Upload Files</string>
+    <!--Work Details-->
+    <string name="workDetails">Task Details</string>
+    <string name="work_summary">Work Summary</string>
+    <string name="finish">Finish</string>
+    <!--Work Summary-->
+    <string name="summury">Summary</string>
+    <string name="person_name">Person Name</string>
+    <string name="device_name">Device Name</string>
+    <string name="strtTime">Start Time</string>
+    <string name="endTime">End Time</string>
+    <string name="status">Status</string>
+
+    <!--Lock-->
+    <string name="test_lock">Test Lock</string>
+    <string name="info1">Tap the lock button to check in</string>
+    <string name="info2">After tap to unlock button to check out</string>
+    <string name="lock">Lock</string>
+    <string name="leverDownAlert">Waiting for putting the lever down</string>
+
+
+    <!--UnLock-->
+    <string name="test_unlock">Test Unlock</string>
+    <string name="unlock">Unlock</string>
+    <string name="device_testing_completed">Device Testing Completed Successfully</string>
+    <string name="location_search">Landmark Search</string>
+
+    <!--LOGOut-->
+    <string name="logout">LOGOUT</string>
+    <string name="devices">Device</string>
+
+    <!--Dummy-->
+    <string name="dummuy_text1">Equipment error at device Locking</string>
+    <string name="dummuy_text2">Time out error at (Opening)</string>
+    <string name="dummuy_text3">Battery power is low</string>
+    <string name="date">6/6/2020 5:30PM</string>
+    <string name="empty_images">No images selected for uploading.Are you sure want to continue</string>
+    <string name="empty_user_name">User name cannot be empty.</string>
+    <string name="password_empty">Password cannot be empty</string>
+    <string name="empty_landmark">Landmark cannot be empty.</string>
+    <string name="enterDetail">Work details can not be empty</string>
+    <string name="address_1">Address 1</string>
+    <string name="address_2">Address 2</string>
+    <string name="address_3">Address 3</string>
+    <string name="empty_location">Location can not be empty</string>
+    <string name="empty_Landmark">Landmark can not be empty</string>
+
+    //security
+
+
+    <string name="pairing_request">PAIRING requested\n-> Perform pairing steps. Connect again</string>
+    <string name="devicesBLE">Bluetooth LE Devices</string>
+    <string name="location_permission_title">Location permission required</string>
+    <string name="location_permission_message">This app does not use location information, but scanning for Bluetooth LE devices requires this permission</string>
+    <string name="location_denied_title">Location permission denied</string>
+    <string name="location_denied_message">As location permission has not been granted, this app cannot scan for Bluetooth LE devices.</string>
+
+    //Alert
+    <string name="alert">Alert</string>
+    <string name="OperfailedExtnd">Network error please try again..</string>
+    <string name="bleNotavbldesc">Bluetooth Not Available, please make sure that your bluetooth is ON</string>
+    <string name="bleNotavbl">Bluetooth Not Available</string>
+    <string name="deviceConfirmation">Are you sure you want to use</string>
+    <string name="proceed">Proceed</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="scanqr">Scan QR Code</string>
+    <string name="permision">These permissions are mandatory for the application. Please allow access.</string>
+    <string name="locker_not_range_lock">No response from device</string>
+    <string name="device_in_use">Device In Use</string>
+    <string name="InvalidDevice">Invalid Device Scanned</string>
+    <string name="device_auth_failed">device authorization failed.</string>
+    <string name="validation_error">Validation Error</string>
+    <string name="Failed_connected">Failed to connect to the device</string>
+    <string name="btryPower">Battery is too low</string>
+    <string name="bltNotDiscoverChkOut">Locker device not discovered</string>
+    <string name="no_pending_task">No Maintenance task is pending for scanned device</string>
+
+    <string name="upholdHandle">Please uphold the handle</string>
+
+    ////ConstantProject.PENDING
+
+    <string name="device_not_match">Device not matched</string>
+
+    //History
+    <string name="history">History</string>
+    <string name="devicStatus">Device status</string>
+    <string name="typeOfMain">Task Details</string>
+    <string name="userEmail">User Email</string>
+    <string name="paymentStatus">Payment Status</string>
+    <string name="delete">Are you sure want to delete.?</string>
+    <string name="lgmsg">Are you sure you want to logout?</string>
+    <string name="logOut">Logout</string>
+    <string name="paymentDateFormat">MMM d yyyy, h:mm a</string>
+    <string name="incorrect_user">Incorrect Username or Password</string>
+
+    <string name="smtngWntWrng">Something went wrong. Please try again</string>
+
+    <string name="lblRegular">Periodically Maintenance</string>
+    <string name="lblBtryReplce">Battery Replacement</string>
+    <string name="lblDeviceReplce">Device Replacement</string>
+
+    <string name="enter_work">please enter the work details</string>
+
+    <string name="type">Type:</string>
+    <string name="location_list">Location:</string>
+    <string name="landMark_list">Landmark:</string>
+    <string name="lblType">Type</string>
+    <string name="staticAll">All</string>
+    <string name="close">Close</string>
+
+    <string name="deviceInactiee">The device is locked by the user</string>
+
+    <string name="installation_location">Installation Location</string>
+    <string name="periodic_inspection">Periodic Inspection</string>
+    <string name="battery_replacment">Battery Replacement</string>
+    <string name="device_replacment">Device Replacement</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

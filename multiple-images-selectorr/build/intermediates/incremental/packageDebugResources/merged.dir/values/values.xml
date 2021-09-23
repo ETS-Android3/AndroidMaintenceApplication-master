@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="light_green">#00AA00</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="buttom_actionbar_height">38dp</dimen>
+    <dimen name="folder_cover_size">72dp</dimen>
+    <dimen name="recyclerview_fast_scroller_width">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="top_actionbar_height">42dp</dimen>
+    <string name="camera_temp_file_error">图片错误</string>
+    <string name="msg_no_camera">无法启动相机!</string>
+    <string name="selector_action_done">完成(%1$d/%2$d)</string>
+    <string name="selector_caption">选择图片</string>
+    <string name="selector_folder_all">所有图片</string>
+    <string name="selector_permission_error">权限错误，无法正常工作！</string>
+    <string name="selector_preview">预览</string>
+    <string name="selector_reach_max_image_hint">您已经选择%d张图片了!</string>
+    <string name="tip_take_photo">拍摄照片</string>
+    <style name="AnimationPreview">
+        <item name="android:windowEnterAnimation">@animator/fade_in</item>
+        <item name="android:windowExitAnimation">@animator/fade_out</item>
+    </style>
+</resources>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:tag="cards main container">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorBlack"
+        android:id="@+id/tv_date"
+        android:textSize="@dimen/text_medium"
+        android:layout_marginRight="@dimen/dimen_20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="@dimen/dimen_05dp"
+        />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:background="@drawable/shape_drawer_bg"
+
+        android:id="@+id/ll_outer"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:textSize="@dimen/text_medium"
+            android:textStyle="bold"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+
+            android:id="@+id/tv_maintenance_person"
+            android:textColor="@color/colorBlack"
+            android:layout_height="wrap_content" />
+
+        <!--<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:visibility="gone"
+            android:layout_marginLeft="10dp"
+
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight=".5"
+                android:text="@string/device_status"
+                android:textSize="@dimen/text_medium"
+
+                android:textColor="@color/colorBlack"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight=".5"
+                android:id="@+id/tv_status"
+                android:textColor="@color/colorBlack"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+      -->  <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="@string/battery_power"
+                android:textSize="@dimen/text_medium"
+
+                android:textColor="@color/colorBlack"
+                android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:text=": "
+            android:textSize="@dimen/text_medium"
+
+            android:textColor="@color/colorBlack"
+            android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:textSize="@dimen/text_medium"
+                android:layout_marginLeft="@dimen/dimen_20dp"
+                android:textColor="@color/colorBlack"
+                android:id="@+id/tv_baltery_power"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:textSize="@dimen/text_medium"
+            android:id="@+id/tv_task_details"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/colorBlack"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:layout_marginTop="10dp"
+            android:textSize="@dimen/text_medium"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/tv_workDetails"
+            />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

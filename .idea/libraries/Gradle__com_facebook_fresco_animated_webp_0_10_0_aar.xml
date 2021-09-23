@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:animated-webp:0.10.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-webp-0.10.0.aar/9012d0c06aef5a47281d93b2ae775a0a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-webp-0.10.0.aar/9012d0c06aef5a47281d93b2ae775a0a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-webp-0.10.0.aar/9012d0c06aef5a47281d93b2ae775a0a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-webp-0.10.0.aar/7208e511384d7f760926c53f95078e73/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-webp-0.10.0.aar/7208e511384d7f760926c53f95078e73/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/animated-webp-0.10.0.aar/7208e511384d7f760926c53f95078e73/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

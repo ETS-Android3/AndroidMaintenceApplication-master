@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TEXT SIZES-->
+    <dimen name="text_extra_large">40sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_regular">14sp</dimen>
+    <dimen name="text_small_medium">12sp</dimen>
+    <dimen name="text_small">10sp</dimen>
+    <dimen name="text_extra_small">8sp</dimen>
+    <dimen name="text_tool_bar">28sp</dimen>
+    <dimen name="text_drawer">20sp</dimen>
+    <dimen name="back_padding">3dp</dimen>
+
+    <!-- IMAGE SIZES-->
+    <dimen name="image_splash">50dp</dimen>
+    <dimen name="image_back_arrow">30dp</dimen>
+
+    <!--Common-->
+    <dimen name="button_right_left">40dp</dimen>
+    <dimen name="logo_length">60dp</dimen>
+    <dimen name="button_height">50dp</dimen>
+    <dimen name="button_margin_bottum">30dp</dimen>
+    <dimen name="editText_height">40dp</dimen>
+    <dimen name="editText_right_left">15dp</dimen>
+    <dimen name="textView_right_left">20dp</dimen>
+
+
+    <!-- toolbar-->
+    <dimen name="toolbar_menuicon_width">35dp</dimen>
+    <dimen name="toolbar_menuicon_height">35dp</dimen>
+    <dimen name="app_margin_left_right">16dp</dimen>
+
+    <dimen name="dimen_05dp">5dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin_large">28dp</dimen>
+    <dimen name="text_size_button">18sp</dimen>
+    <dimen name="payment_page_txt_size">13sp</dimen>
+
+
+
+</resources>

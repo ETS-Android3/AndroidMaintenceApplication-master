@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CP Maintenance</string>
+    <string name="ok">OK</string>
+
+    <!--Splash Screen-->
+    <string name="maintenance">保守</string>
+
+
+    <!--Language Selection-->
+    <string name="welcome_maintenance">ようこそ保守 \nアプリケーションへ</string>
+    <string name="getStarted">開始</string>
+
+    <!--Login-->
+    <string name="login">ログイン</string>
+    <string name="EmAddrs">メールアドレス</string>
+    <string name="password">パスワード</string>
+
+    <!--MainScreen-->
+    <string name="device">デバイス:</string>
+    <string name="battery_power">電池容量</string>
+
+    <!--
+    Scan QrCode
+-->
+
+    <string name="description">新しいデバイス導入開始のためにQRコードをスキャンしてください</string>
+    <string name="startScan">スキャンする</string>
+    <string name="scan">スキャン</string>
+    <string name="bleNotavbldesc">Bluetoothは無効です。ONになっているか確認して下さい</string>
+    <string name="bleNotavbl">Bluetoothは無効です</string>
+
+
+
+    <!--
+    Device Details
+-->
+    <string name="deviceDetails">デバイスの詳細</string>
+    <string name="location">場所</string>
+    <string name="address">住所</string>
+    <string name="type_of_maintaince">保守タイプ</string>
+    <string name="balttery">バッテリー</string>
+    <string name="pcb">PCB</string>
+    <string name="mechanickel">機械的</string>
+    <string name="landmark">ランドマーク</string>
+
+    <!--Menu Item Display-->
+    <string name="install">導入</string>
+    <string name="repair">点検作業</string>
+    <string name="locations">場所</string>
+    <string name="test_device">テストデバイス</string>
+
+
+    <!--UploadImage-->
+    <string name="upload">アップロードする</string>
+    <string name="uploadImg">画像をアップロード</string>
+    <string name="upload_file">画像をアップロード</string>
+    <!--Work Details-->
+    <string name="workDetails">作業詳細</string>
+    <string name="work_summary">作業要旨</string>
+    <string name="finish">終了</string>
+    <!--Work Summary-->
+    <string name="summury">要旨</string>
+    <string name="person_name">作業員名</string>
+    <string name="device_name">デバイス名</string>
+    <string name="strtTime">開始時間</string>
+    <string name="endTime">終了時間</string>
+    <string name="status">ステータス</string>
+
+    <!--Lock-->
+    <string name="test_lock">テスト施錠</string>
+    <string name="info2">後にチェックアウトのために \n解錠ボタンを押してください</string>
+    <string name="lock">施錠</string>
+    <string name="leverDownAlert">ロックレバーをカチッと音がするまで \n下げてください</string>
+
+
+    <!--UnLock-->
+    <string name="test_unlock">テスト解錠</string>
+    <string name="unlock">解錠</string>
+    <string name="device_testing_completed">デバイステストは正常に完了しました</string>
+    <string name="location_search">ランドマーク 検索</string>
+
+    <!--LOGOut-->
+    <string name="devices">デバイス</string>
+    <string name="logout">ログアウト</string>
+
+
+
+
+    <!--Dummy-->
+    <string name="dummuy_text1">デバイス施錠時に装置エラー</string>
+    <string name="dummuy_text2">解錠時のタイムアウトエラー</string>
+    <string name="dummuy_text3">電池残量が少なくなっています</string>
+    <string name="date">2020年4月27日午前8時30分</string>
+    <string name="empty_images">画像を選択してください</string>
+
+    <string name="empty_user_name">ユーザー名が必要です</string>
+    <string name="password_empty">パスワードが必要です</string>
+    <string name="empty_landmark">ランドマークが必要です</string>
+    <string name="enterDetail">作業詳細が必要です</string>
+    <string name="address_1">住所1</string>
+    <string name="address_2">住所2</string>
+    <string name="address_3">住所3</string>
+    <string name="empty_location">住所は空欄にできません</string>
+
+
+
+
+    //Aleart
+    <string name="alert">アラート !!</string>
+    <string name="OperfailedExtnd">インターネット接続に問題がある可能性があります。もう一度やり直してください！</string>
+    <string name="deviceConfirmation">を選びました</string>
+    <string name="cancel">キャンセル</string>
+    <string name="proceed">次へ</string>
+    <string name="confirm">確認</string>
+    <string name="scanqr">QRコードをスキャン</string>
+    <string name="permision">これらの権限は、アプリケーションに必須です。アクセスを許可してください。</string>
+    <string name="locker_not_range_lock">デバイスからの応答なし</string>
+    <string name="device_in_use">使用中デバイス</string>
+    <string name="InvalidDevice">無効なスキャンされたデバイス</string>
+    <string name="btryPower">バッテリー残量がご利用頂くには少な過ぎます</string>
+    <string name="device_auth_failed">デバイスの認証に失敗しました</string>
+    <string name="validation_error">検証エラー</string>
+    <string name="Failed_connected">デバイスに接続できませんでした</string>
+
+    <string name="bltNotDiscoverChkOut">ロッカーデバイスは見付かりませんでした</string>
+    <string name="upholdHandle">ロックバーを上げて下さい</string>
+
+    <string name="no_pending_task">スキャンしたデバイスに保留中の保守作業はありません</string>
+    <string name="empty_Landmark"> ランドマークは空欄にできません</string>
+    <string name="info1">チェックインするために施錠ボタンを \n 押してください</string>
+
+    <string name="history">履歴</string>
+    <string name="devicStatus">デバイスの状態</string>
+    <string name="typeOfMain">作業の詳細</string>
+    <string name="userEmail">ユーザーのメールアドレス</string>
+    <string name="paymentStatus">支払いの状況</string>
+    <string name="delete"> 本当に削除しますか？</string>
+    <string name="lgmsg">本当にログアウトしますか？</string>
+    <string name="logOut">ログアウト</string>
+    <string name="paymentDateFormat">>MMM d yyyy,\n h:mm a</string>
+    <string name="incorrect_user">ユーザーネームまたはパスワードが違います</string>
+
+
+    <string name="smtngWntWrng">エラー起きました,再度お試し下さい</string>
+
+
+    <string name="lblRegular">定期点検</string>
+    <string name="lblBtryReplce"> バッテリー交換</string>
+    <string name="lblDeviceReplce">デバイス交換</string>
+    <string name="enter_work">仕事の詳細を入力してください</string>
+    <string name="type">作業タイプ :</string>
+    <string name="location_list">場所:</string>
+    <string name="landMark_list">ランドマーク:</string>
+    <string name="lblType">作業タイプ</string>
+    <string name="staticAll">すべて</string>
+    <string name="close">閉じる</string>
+
+    //security
+
+
+    <string name="pairing_request">PAIRING requested\n-> Perform pairing steps. Connect again</string>
+    <string name="devicesBLE">BluetoothLEデバイス</string>
+    <string name="location_permission_title">位置情報を使用する許可が必要です。</string>
+    <string name="location_permission_message">このアプリは位置情報を使用しませんが、Bluetooth LEデバイスのスキャンのためこの許可が必要です。</string>
+    <string name="location_denied_title">場所の許可が拒否されました</string>
+    <string name="location_denied_message">位置情報の使用が許可されていないため、このアプリはBluetooth LEデバイスをスキャンできません。</string>
+
+    <string name="deviceInactiee">デバイスはユーザーにより施錠されています</string>
+    <string name="installation_location">設置場所</string>
+    <string name="periodic_inspection">定期点検</string>
+    <string name="battery_replacment">バッテリー交換</string>
+    <string name="device_replacment">デバイス交換
+
+
+</string>
+
+
+
+</resources>

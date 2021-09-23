@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054071687639",
+    "project_id": "maintenceapp",
+    "storage_bucket": "maintenceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054071687639:android:60634261d3e10425ac2392",
+        "android_client_info": {
+          "package_name": "com.tinu.maintanceappliccation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054071687639-v958qj2q3c2bo2rmaj2lkhuqhfllu8c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tinu.maintanceappliccation",
+            "certificate_hash": "92e751ae1487b2a19e1047e1eb586c6be889de00"
+          }
+        },
+        {
+          "client_id": "1054071687639-g0hf5s2snps0vgsg22olkvhs8uqp61i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoEXuTINrLRxY1oeft5UA2stXmoCXn3Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054071687639-g0hf5s2snps0vgsg22olkvhs8uqp61i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/shape_drawer_bg"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/ll_install"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:padding="15dp"
+            android:src="@drawable/install"/>
+        <TextView
+            android:id="@+id/tv_install"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+            android:gravity="center_vertical"
+            android:text="@string/install"
+            android:textSize="@dimen/text_drawer"
+
+            android:textColor="@color/colorAccent"
+            />
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextAsh" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/ll_periodic_inspection"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:padding="15dp"
+
+            android:src="@drawable/ic_periodic_inspection"/>
+        <TextView
+            android:id="@+id/tv_periodic_inspection"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/periodic_inspection"
+            android:layout_margin="1dp"
+
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_drawer"
+            />
+
+
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextAsh" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/ll_repair"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:padding="15dp"
+
+            android:src="@drawable/repair"/>
+        <TextView
+            android:id="@+id/tv_repair"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/repair"
+            android:layout_margin="1dp"
+
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_drawer"
+            />
+
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextAsh" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/ll_battery_replacement"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:padding="15dp"
+
+            android:src="@drawable/ic_battery"/>
+        <TextView
+            android:id="@+id/tv_battery_replacement"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/battery_replacment"
+            android:layout_margin="1dp"
+
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_drawer"
+            />
+
+
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextAsh" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/ll_device_replacement"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:padding="15dp"
+
+            android:src="@drawable/location"/>
+        <TextView
+            android:id="@+id/tv_device_replacement"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/device_replacment"
+            android:layout_margin="1dp"
+
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_drawer"
+            />
+
+
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextAsh" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/ll_location"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:padding="15dp"
+
+            android:src="@drawable/location"/>
+        <TextView
+            android:id="@+id/tv_location"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="@string/installation_location"
+            android:layout_margin="1dp"
+
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_drawer"
+            />
+
+
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextAsh" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/ll_testDevice"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:padding="15dp"
+
+            android:src="@drawable/test_device"/>
+        <TextView
+            android:id="@+id/tv_test_device"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+
+            android:gravity="center_vertical"
+            android:text="@string/test_device"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_drawer"
+            />
+
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextAsh" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/ll_history"
+        android:layout_height="60dp">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:padding="15dp"
+
+            android:src="@drawable/history"/>
+        <TextView
+            android:id="@+id/tv_history"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="1dp"
+
+            android:gravity="center_vertical"
+            android:text="@string/history"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/text_drawer"
+            />
+
+
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextAsh" />
+
+
+</LinearLayout>

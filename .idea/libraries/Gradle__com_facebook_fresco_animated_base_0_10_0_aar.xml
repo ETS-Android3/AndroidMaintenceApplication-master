@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:animated-base:0.10.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-animated-base-0.10.0.aar/e34935fa6f20550b1c6e3892af090fe7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-animated-base-0.10.0.aar/e34935fa6f20550b1c6e3892af090fe7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-animated-base-0.10.0.aar/e34935fa6f20550b1c6e3892af090fe7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-animated-base-0.10.0.aar/f5dc983bfca6e141a7cb39377d38116b/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-animated-base-0.10.0.aar/f5dc983bfca6e141a7cb39377d38116b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-animated-base-0.10.0.aar/f5dc983bfca6e141a7cb39377d38116b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

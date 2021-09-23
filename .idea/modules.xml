@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidMaintenceApplication-master.iml" filepath="$PROJECT_DIR$/.idea/AndroidMaintenceApplication-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidMaintenceApplication-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidMaintenceApplication-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiple-images-selectorr/AndroidMaintenceApplication-master.multiple-images-selectorr.iml" filepath="$PROJECT_DIR$/.idea/modules/multiple-images-selectorr/AndroidMaintenceApplication-master.multiple-images-selectorr.iml" />
+    </modules>
+  </component>
+</project>
